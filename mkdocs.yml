@@ -1,5 +1,5 @@
 site_name: Recipes and Cocktails
-site_url: http://chris-m92.github.io/recipes
+site_url: http://chris-m92.github.io/recipes-and-cocktails
 nav:
   - Home:
     - index.md
